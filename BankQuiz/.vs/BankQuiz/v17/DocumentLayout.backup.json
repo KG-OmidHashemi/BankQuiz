@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\service\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\service\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\migrations\\20251003090032_1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\migrations\\20251003090032_1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\migrations\\bankdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\migrations\\bankdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\dataaccess\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\dataaccess\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\service\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\service\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +21,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\migrations\\20251003064211_1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\migrations\\20251003064211_1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\dataaccess\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\dataaccess\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|c:\\users\\omid\\desktop\\bankquiz\\bankquiz\\bankquiz\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A67F72-753B-40F4-A29F-9126B5F4800F}|BankQuiz\\BankQuiz.csproj|solutionrelative:bankquiz\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,19 +62,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 230,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20251003090032_1.1.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\20251003090032_1.1.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Migrations\\20251003090032_1.1.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\20251003090032_1.1.cs",
-              "RelativeToolTip": "BankQuiz\\Migrations\\20251003090032_1.1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20251003064211_1.0.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\20251003064211_1.0.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Migrations\\20251003064211_1.0.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\20251003064211_1.0.cs",
+              "RelativeToolTip": "BankQuiz\\Migrations\\20251003064211_1.0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T09:00:32.908Z",
+              "WhenOpened": "2025-10-03T06:42:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Repositories\\CardRepository.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Repositories\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Repositories\\CardRepository.cs",
+              "RelativeToolTip": "BankQuiz\\Repositories\\CardRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:49:39.228Z",
               "EditorCaption": ""
             },
             {
@@ -101,57 +106,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\CardService.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Service\\CardService.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\CardService.cs",
+              "RelativeToolTip": "BankQuiz\\Service\\CardService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:57:42.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\TransactionService.cs",
               "RelativeDocumentMoniker": "BankQuiz\\Service\\TransactionService.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\TransactionService.cs",
-              "RelativeToolTip": "BankQuiz\\Service\\TransactionService.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwEAAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\TransactionService.cs*",
+              "RelativeToolTip": "BankQuiz\\Service\\TransactionService.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T06:18:23.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Program.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Program.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Program.cs",
-              "RelativeToolTip": "BankQuiz\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardService.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ICardService.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardService.cs",
+              "RelativeToolTip": "BankQuiz\\Interfaces\\ICardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T05:31:37.629Z",
+              "WhenOpened": "2025-10-03T07:44:34.571Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BankDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\BankDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Migrations\\BankDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\BankDbContextModelSnapshot.cs",
-              "RelativeToolTip": "BankQuiz\\Migrations\\BankDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T09:01:03.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CardService.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\CardService.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Service\\CardService.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Service\\CardService.cs",
-              "RelativeToolTip": "BankQuiz\\Service\\CardService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T05:57:42.801Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "BankQuiz\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:00:51.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardRepository.cs",
+              "RelativeToolTip": "BankQuiz\\Interfaces\\ICardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:00:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Entities\\Transaction.cs",
               "RelativeDocumentMoniker": "BankQuiz\\Entities\\Transaction.cs",
@@ -164,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Entities\\Card.cs",
               "RelativeDocumentMoniker": "BankQuiz\\Entities\\Card.cs",
@@ -178,42 +197,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ICardService.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardService.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ICardService.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardService.cs",
-              "RelativeToolTip": "BankQuiz\\Interfaces\\ICardService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\DataAccess\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\DataAccess\\BankDbContext.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\DataAccess\\BankDbContext.cs",
+              "RelativeToolTip": "BankQuiz\\DataAccess\\BankDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T07:44:34.571Z"
+              "WhenOpened": "2025-10-03T09:20:45.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ICardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardRepository.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ICardRepository.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ICardRepository.cs",
-              "RelativeToolTip": "BankQuiz\\Interfaces\\ICardRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Program.cs",
+              "RelativeDocumentMoniker": "BankQuiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Program.cs",
+              "RelativeToolTip": "BankQuiz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T06:00:43.956Z"
+              "WhenOpened": "2025-10-03T05:31:37.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITransactionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ITransactionRepository.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ITransactionRepository.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ITransactionRepository.cs",
-              "RelativeToolTip": "BankQuiz\\Interfaces\\ITransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T06:00:51.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Interfaces\\ITransactionService.cs",
               "RelativeDocumentMoniker": "BankQuiz\\Interfaces\\ITransactionService.cs",
@@ -222,49 +231,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T07:44:46.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Repositories\\CardRepository.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Repositories\\CardRepository.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Repositories\\CardRepository.cs",
-              "RelativeToolTip": "BankQuiz\\Repositories\\CardRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T05:49:39.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20251003064211_1.0.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\20251003064211_1.0.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\Migrations\\20251003064211_1.0.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\Migrations\\20251003064211_1.0.cs",
-              "RelativeToolTip": "BankQuiz\\Migrations\\20251003064211_1.0.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T06:42:11.355Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BankDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\DataAccess\\BankDbContext.cs",
-              "RelativeDocumentMoniker": "BankQuiz\\DataAccess\\BankDbContext.cs",
-              "ToolTip": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\DataAccess\\BankDbContext.cs",
-              "RelativeToolTip": "BankQuiz\\DataAccess\\BankDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T05:33:26.884Z",
-              "EditorCaption": ""
             }
           ]
         }

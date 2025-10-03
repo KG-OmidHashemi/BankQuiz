@@ -53,10 +53,11 @@ namespace BankQuiz.Service
             sourceCard.Balance -= amount;
             destinationCard.Balance += amount;
 
+            transaction.IsSuccessful = true;
             _cardRepo.Update(sourceCard);
             _cardRepo.Update(destinationCard);
 
-            transaction.IsSuccessful = true;
+  
 
             return true;
         }
