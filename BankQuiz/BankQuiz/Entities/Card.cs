@@ -10,7 +10,7 @@ namespace BankQuiz.Entities
     {
         public int Id { get; set; }
         public string CardNumber { get; set; }
-        public string CardHoldersNumber { get; set; }
+        public string HoldersName { get; set; }
         public float Balance { get; set; }
         public bool IsActive { get; set; }
         public string Password { get; set; }

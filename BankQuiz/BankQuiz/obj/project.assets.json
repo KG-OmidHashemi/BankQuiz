@@ -4717,11 +4717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\BankQuiz\\BankQuiz\\BankQuiz.csproj",
+      "projectUniqueName": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\BankQuiz.csproj",
       "projectName": "BankQuiz",
-      "projectPath": "C:\\Users\\Omid\\source\\repos\\BankQuiz\\BankQuiz\\BankQuiz.csproj",
+      "projectPath": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\BankQuiz.csproj",
       "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omid\\source\\repos\\BankQuiz\\BankQuiz\\obj\\",
+      "outputPath": "C:\\Users\\Omid\\Desktop\\BankQuiz\\BankQuiz\\BankQuiz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

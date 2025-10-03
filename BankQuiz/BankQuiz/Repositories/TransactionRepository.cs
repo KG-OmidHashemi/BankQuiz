@@ -21,9 +21,7 @@ namespace BankQuiz.Repositories
         public List<Transaction> GetByCardNumber(string cardNumber)
         {
             return _db.Transactions
-                      .Where(t => t.SourceCardNumber == cardNumber ||
-                                  t.DestinationCardNumber == cardNumber)
-                      .ToList();
+                      .Where(t => t.SourceCardNumber == cardNumber || t.DestinationCardNumber == cardNumber).ToList();
         }
     }
 }

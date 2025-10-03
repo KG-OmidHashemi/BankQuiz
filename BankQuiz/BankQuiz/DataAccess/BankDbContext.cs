@@ -19,6 +19,5 @@ namespace BankQuiz.DataAccess
                 .UseSqlServer(connectionString);
             base.OnConfiguring(optionsBuilder);
         }
-
     }
 }

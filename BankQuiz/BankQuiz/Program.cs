@@ -47,6 +47,7 @@ void menu(Card card)
                     float amount = float.Parse(Console.ReadLine());
                     transactionService.Transfer(card, destenationCardNumber, amount);
                     Console.WriteLine("Transfer was successful");
+                    Console.ReadKey();
                 }
                 catch(Exception ex)
                 {
